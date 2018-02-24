@@ -1,5 +1,9 @@
+This file is from a Kaggle competition: 
+> 2018 Data Science Bowl
+[Find the nuclei in divergent images to advance medical discovery](https://www.kaggle.com/c/data-science-bowl-2018)
+
 ## Data Description
----
+
 This dataset contains a large number of segmented nuclei images. The images were acquired under a variety of conditions and vary in the cell type, magnification, and imaging modality (brightfield vs. fluorescence). The dataset is designed to challenge an algorithm's ability to generalize across these variations.
 
 Each image is represented by an associated ImageId. Files belonging to an image are contained in a folder with this ImageId. Within this folder are two subfolders:
