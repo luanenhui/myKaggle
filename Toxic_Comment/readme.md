@@ -1,14 +1,17 @@
 个人部分：
 
 以my开头的文件
-myNewbies.ipynb  
-proprecessing.ipynb
-myKeras_with_preprocessing.ipynb
-logistic_regression.py
+<br>
+myNewbies.ipynb<br>  
+proprecessing.ipynb<br>
+myKeras_with_preprocessing.ipynb<br>
+logistic_regression.py<br>
 
-pipeline.ipynb  /* 集成了logistic regression, RandomForest, lightgbm, 
+pipeline.ipynb  /* 集成了logistic regression, RandomForest, lightgbm */ 
 
+<br>
 /* ensemble */
-mlens_tutorial.ipynb
-myblends.ipynb
-myblends_random.ipynb
+<br>
+mlens_tutorial.ipynb<br>
+myblends.ipynb<br>
+myblends_random.ipynb<br>
